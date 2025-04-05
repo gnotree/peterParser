@@ -3,9 +3,9 @@ Prerequisite: Anaconda or Miniconda (https://www.anaconda.com/products/distribut
 
 Clone the repository and run the setup script:
 
-git clone <your_repository_url>
+'''git clone https://github.com/gnotree/peterParser/
 cd <repository_folder>
-.\setup.ps1
+.\setup.ps1'''
 
 The script will:
 
