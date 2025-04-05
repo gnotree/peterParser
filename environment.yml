@@ -1,0 +1,8 @@
+name: peterParser
+dependencies:
+  - python=3.11
+  - beautifulsoup4
+  - requests
+  - lxml
+  - html5lib
+  - pandas
